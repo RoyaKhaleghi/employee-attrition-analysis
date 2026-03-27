@@ -11,8 +11,8 @@ This project explores attrition patterns across departments to identify where em
 
 The goal of this project is to answer two key business questions:
 
-- Which department has the highest attrition risk?
-- Which department contributes the largest share of total attrition?
+• Which department has the highest attrition risk?
+• Which department contributes the largest share of total attrition?
 
 By distinguishing between attrition **rate** and attrition **impact**, the analysis helps prioritize retention efforts more effectively.
 
@@ -30,7 +30,17 @@ By distinguishing between attrition **rate** and attrition **impact**, the analy
     └── sql/
         └── analysis.sql
         
+
 ## Dashboard Preview
 
-![Employee Attrition Dashboard](DASHBORD.png)
+![Employee Attrition Dashboard](DASHBOARD.png)
+
+### Interactive Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/roya.khaleghi/viz/HR_Attrition_Dashboard_17746209154970/Dashboard1?publish=yes)
+
+### Key Insights
+- Sales has the highest attrition rate, indicating elevated turnover risk.
+- R&D contributes the largest share of total attrition.
+- Retention strategies should prioritize R&D while addressing root causes in Sales.
+
 
